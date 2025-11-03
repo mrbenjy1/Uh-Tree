@@ -1,4 +1,4 @@
 TEAM MEMBERS: 
-BEN PINCKARD 
+Ben Pinckard 
 NOEL Cuadrado 
 Jose Pedro Signani
