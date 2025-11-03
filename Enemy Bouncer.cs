@@ -41,10 +41,11 @@ public class EnemyB : Enemy
     void Update()
     {
         //f changes speed
-        transform.Translate(new Vector3(Bounce(), -0.6f, 0) * Time.deltaTime * 5f);
+        transform.Translate(new Vector3(Bounce(), -0.4f, 0) * Time.deltaTime * 5f);
         if (transform.position.y < -6.5f)
         {
             Destroy(this.gameObject);
         }
     }
 }
+
