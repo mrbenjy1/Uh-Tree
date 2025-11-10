@@ -1,4 +1,4 @@
 TEAM MEMBERS: 
-Ben Pinckard
-Noel Cuadrado 
-Jose Pedro Signani
+Ben Pinckard - Task 2
+Noel Cuadrado  - Task 3
+Jose Pedro Signani - Task 1
