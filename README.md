@@ -1,4 +1,1 @@
-TEAM MEMBERS: 
-Ben Pinckard - Task 2
-Noel Cuadrado  - Task 3
-Jose Pedro Signani - Task 1
+For this week I did Task 2, which was the coin task. The task overall was pretty simple, I just replaced the enemy prefab with the coin in game. The coins in game pretty much did the same movements as the enemies did. I also made sure the score updated with a score of 1 when the player collected it. 
