@@ -1,5 +1,6 @@
 NOEL CUADRADO , BEN PICKARD, JOSE SIGANI
 Game Link: https://drive.google.com/file/d/12wiHgNsbLStAsXzRLvhy_mvP2GMbybVj/view?usp=sharing
+Video Link: https://youtu.be/2ID8FL7ZGLA
 
 List of changes/additions
 
@@ -11,3 +12,4 @@ List of changes/additions
 Biggest challange - making the new enemy type was the biggest challange because he was hard to balance, the way he works is that he's speed ramps up as the player takes longer to escape so trying to find a sweetspot to give the player a challenge while letting them have a couple of errors was the hardest part of the project.
 
 No this project will most likely not be worked on any further
+
